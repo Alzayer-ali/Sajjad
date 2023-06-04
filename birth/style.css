@@ -54,12 +54,13 @@ h3{
 }
 
 #p{
-    font-size: medium;
+    font-size: 24px;
     line-height: 25px;
+    font-weight: 200;
 }
 
 #pr{
-    font-size: 12px;
+    font-size: 15px;
     /* word-spacing: 100px; */
     letter-spacing: 2px;
     line-height: 19px;
